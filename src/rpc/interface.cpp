@@ -23,7 +23,7 @@
 #include "wallet/rpcwallet.h"
 #include "wallet/wallet.h"
 #endif
-
+#include <boost/algorithm/string.hpp>
 #include <stdint.h>
 
 #include <univalue.h>
