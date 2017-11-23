@@ -210,6 +210,7 @@ libbitcoin_server_a_SOURCES = \
   rpc/rawtransaction.cpp \
   rpc/server.cpp \
   rpc/interface.cpp \
+  rpc/interface.h \
   script/sigcache.cpp \
   script/ismine.cpp \
   timedata.cpp \
